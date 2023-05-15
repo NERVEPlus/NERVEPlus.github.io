@@ -610,3 +610,5 @@ yahoo.com, 59973, RESELLER, e1a5b5b6e3255540
 yahoo.com,57992,RESELLER,e1a5b5b6e3255540
 yandex.com, 97790217, RESELLER
 yieldmo.com, 2847993098447822858, RESELLER
+audiencerun.com, 599, DIRECT
+OWNERDOMAIN=nerveplusinc.com
